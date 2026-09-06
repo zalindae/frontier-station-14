@@ -435,8 +435,7 @@
     tags:
     - CannotSuicide
     - VimPilot
-
-
+7
 - type: entity
   id: MobCatBloodCult
   parent: [NFMobPet, MobCatMistake]

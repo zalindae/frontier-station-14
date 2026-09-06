@@ -382,9 +382,11 @@
     nameSegments: [NamesHamster]
   - type: Inventory
     speciesId: hamster
-  - type: EmitSoundOnTrigger
-    sound:
-      path: "/Audio/Animals/mouse_squeak.ogg"
+  - type: Vocal
+    sounds:
+      Male: Mouse
+      Female: Mouse
+      Unsexed: Mouse
   - type: Speech
     speechSounds: Squeak
     speechVerb: SmallMob
